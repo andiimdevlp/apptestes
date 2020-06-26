@@ -20,12 +20,12 @@ class App extends Component {
       feed: [
         {
           id: '1', 
-          nome: 'Lucas Silva', 
+          nome: 'Andiim Scofield', 
           descricao: 'Mais um dia de muitos bugs :)', 
           imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png', 
           imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto1.png',  
           likeada: true, 
-          likers: 1
+          likers: 8
          },
         {
           id: '2', 
@@ -34,7 +34,7 @@ class App extends Component {
           imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil2.png', 
           imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto2.png', 
           likeada: false, 
-          likers: 0
+          likers: 25
         },
         {
           id: '3', 
