@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
   },
   fotoPublicacao:{
     flex:1,
-    height: 400,
+    height: 300,
     alignItems: 'center'
   },
   viewPerfil:{
@@ -139,8 +139,8 @@ const styles = StyleSheet.create({
     padding: 5
   },
   iconelike:{
-    width: 33,
-    height: 33,
+    width: 23,
+    height: 23,
   },
   btnSend:{
     paddingLeft: 5,
